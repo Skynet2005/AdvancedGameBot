@@ -1,0 +1,20 @@
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: down. Resulting reward: 0
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: down. Resulting reward: 0.0010216208716619518
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: down. Resulting reward: 0.0018349465485317518
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: down. Resulting reward: 0.0005839863986816726
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: down. Resulting reward: 0.0007834562933785733
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: down. Resulting reward: -0.00039775128016557304
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: zoom_in. Resulting reward: -0.0009091544205330933
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: down. Resulting reward: -0.0019014178792051487
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: zoom_in. Resulting reward: -0.0038625061823336776
+Game state features: [-0.21253039 -0.01679418 -0.10979089 ... -0.05033317  1.224926
+ -0.14538026]. Action taken: down. Resulting reward: -0.0073530193164694085
